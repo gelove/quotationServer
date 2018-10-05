@@ -1,0 +1,170 @@
+[
+    {
+        "contractNo": "C1812",
+        "contractName": "美玉米12",
+        "changeRate": "0.0687285",
+        "changeValue": "0.0025",
+        "lastPrice": "3.64",
+        "preClosingPrice": "3.6375"
+    },
+    {
+        "contractNo": "S1811",
+        "contractName": "美大豆11",
+        "changeRate": "0.6503104",
+        "changeValue": "0.055",
+        "lastPrice": "8.5125",
+        "preClosingPrice": "8.4575"
+    },
+    {
+        "contractNo": "W1812",
+        "contractName": "美小麦12",
+        "changeRate": "1.056169",
+        "changeValue": "0.055",
+        "lastPrice": "5.2625",
+        "preClosingPrice": "5.2075"
+    },
+    {
+        "contractNo": "6A1812",
+        "contractName": "澳元12",
+        "changeRate": "0.0137893",
+        "changeValue": "1.0E-4",
+        "lastPrice": "0.7253",
+        "preClosingPrice": "0.7252"
+    },
+    {
+        "contractNo": "6B1812",
+        "contractName": "英镑12",
+        "changeRate": "-0.1133358",
+        "changeValue": "-0.0015",
+        "lastPrice": "1.322",
+        "preClosingPrice": "1.3235"
+    },
+    {
+        "contractNo": "6E1812",
+        "contractName": "欧元12",
+        "changeRate": "-0.2659686",
+        "changeValue": "-0.00315",
+        "lastPrice": "1.1812",
+        "preClosingPrice": "1.18435"
+    },
+    {
+        "contractNo": "6J1812",
+        "contractName": "日元12",
+        "changeRate": "-0.0505135",
+        "changeValue": "-4.5E-6",
+        "lastPrice": "0.008904",
+        "preClosingPrice": "0.0089085"
+    },
+    {
+        "contractNo": "MHI1810",
+        "contractName": "小恒指10",
+        "changeRate": "0.1544762",
+        "changeValue": "43.0",
+        "lastPrice": "27879.0",
+        "preClosingPrice": "27836.0"
+    },
+    {
+        "contractNo": "HSI1810",
+        "contractName": "恒指10",
+        "changeRate": "0.1760563",
+        "changeValue": "49.0",
+        "lastPrice": "27881.0",
+        "preClosingPrice": "27832.0"
+    },
+    {
+        "contractNo": "BO1812",
+        "contractName": "美豆油12",
+        "changeRate": "0.4886562",
+        "changeValue": "0.14",
+        "lastPrice": "28.79",
+        "preClosingPrice": "28.65"
+    },
+    {
+        "contractNo": "CL1811",
+        "contractName": "美原油11",
+        "changeRate": "-0.7055893",
+        "changeValue": "-0.51",
+        "lastPrice": "71.77",
+        "preClosingPrice": "72.28"
+    },
+    {
+        "contractNo": "CN1810",
+        "contractName": "A50指数10",
+        "changeRate": "1.2596072",
+        "changeValue": "147.5",
+        "lastPrice": "11857.5",
+        "preClosingPrice": "11710.0"
+    },
+    {
+        "contractNo": "ES1812",
+        "contractName": "小标普12",
+        "changeRate": "0.0753089",
+        "changeValue": "2.2",
+        "lastPrice": "2923.5",
+        "preClosingPrice": "2921.3"
+    },
+    {
+        "contractNo": "GC1812",
+        "contractName": "美黄金12",
+        "changeRate": "-0.5393743",
+        "changeValue": "-6.5",
+        "lastPrice": "1198.6",
+        "preClosingPrice": "1205.1"
+    },
+    {
+        "contractNo": "HG1812",
+        "contractName": "美精铜12",
+        "changeRate": "0.2302107",
+        "changeValue": "0.0065",
+        "lastPrice": "2.83",
+        "preClosingPrice": "2.8235"
+    },
+    {
+        "contractNo": "NG1811",
+        "contractName": "天然气11",
+        "changeRate": "-0.2616089",
+        "changeValue": "-0.008",
+        "lastPrice": "3.05",
+        "preClosingPrice": "3.058"
+    },
+    {
+        "contractNo": "NQ1812",
+        "contractName": "小纳指12",
+        "changeRate": "0.2205325",
+        "changeValue": "16.75",
+        "lastPrice": "7612.0",
+        "preClosingPrice": "7595.25"
+    },
+    {
+        "contractNo": "QM1811",
+        "contractName": "小原油11",
+        "changeRate": "-0.6986718",
+        "changeValue": "-0.505",
+        "lastPrice": "71.775",
+        "preClosingPrice": "72.28"
+    },
+    {
+        "contractNo": "SI1812",
+        "contractName": "美白银12",
+        "changeRate": "-0.5381908",
+        "changeValue": "-0.078",
+        "lastPrice": "14.415",
+        "preClosingPrice": "14.493"
+    },
+    {
+        "contractNo": "YM1812",
+        "contractName": "小道指12",
+        "changeRate": "0.1508295",
+        "changeValue": "40.0",
+        "lastPrice": "26560.0",
+        "preClosingPrice": "26520.0"
+    },
+    {
+        "contractNo": "FDAX1812",
+        "contractName": "德指12",
+        "changeRate": "-0.4436378",
+        "changeValue": "-55.0",
+        "lastPrice": "12342.5",
+        "preClosingPrice": "12358.5"
+    }
+]
